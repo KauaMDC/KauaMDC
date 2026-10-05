@@ -2,7 +2,7 @@
 
 # Kauã Mendonça
 
-### `Estudante de Ccomp`
+### `Estudante de Ccomp-UFRRJ`
 
 [![GitHub](https://img.shields.io/badge/GitHub-KauaMDC-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KauaMDC)
 
@@ -80,7 +80,7 @@ O projeto utiliza programação em C para construir a lógica e a interação do
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=KauaMDC&bg_color=0d1117&color=c9d1d9&line=ff3b3b&point=ffffff&area=true&hide_border=true" />
+[![KauaMDC's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KauaMDC&bg_color=0d1117&color=c9d1d9&line=ff3b3b&point=ffffff&area=true&hide_border=true)](https://github.com/KauaMDC)
 
 </div>
 
